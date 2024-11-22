@@ -1,0 +1,12 @@
+{
+    "user": {
+      "name": "John Doe",
+      "destination": "New York"
+    },
+    "other": {
+      "info": "Details",
+      "destination": "California"
+    }
+  }
+
+ 
